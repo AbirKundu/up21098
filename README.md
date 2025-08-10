@@ -2,7 +2,7 @@
 Welcome to Subscription Plan project 🚀
 
 ## 🌐 Project Info
-URL: https://subs-plan-abir.vercel.app
+URL: up21098.vercel.app
 
 ## 🧠 Supervision
 This project is proudly developed under the supervision of _**Raihanul Islam, Software Engineer at OrangeToolz.**_
